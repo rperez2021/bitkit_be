@@ -1,2 +1,9 @@
-# bitkit_be
-A New Mongo &amp; Express Backend
+# Bitchin Kitchen Back End
+
+Mongo, Express, Typescript
+
+To start:
+
+```bash
+npx nodemon server.js
+```
